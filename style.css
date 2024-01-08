@@ -59,6 +59,9 @@ button {
 button:hover {
   color: #3a3a3a;
 }
+.hidden {
+    display: none;
+}
 /* Heading */
 h3,
 label[for="new-task"] {
